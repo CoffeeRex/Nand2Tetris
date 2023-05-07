@@ -1,0 +1,4 @@
+A=M;JGT
+AMD=D+1;JMP
+A=asdadsd;asdadsd
+B=asdsddhjkyk;jgj
